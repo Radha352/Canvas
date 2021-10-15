@@ -1,6 +1,6 @@
 Renaming and deleting files! For branch1
 
-what 
+what happens when makiing changes on master branch
 
 how
 
